@@ -12,9 +12,9 @@ data = data.encode('utf-8')
 attributes = {
     'artist': 'beatles',
     'album': 'white album',
-    'title': 'hapiness is a warm gun'
+    'title': 'blackbird6'
 }
-print('sent?')
+
 future = publisher.publish(topic_path, data, **attributes)
-print('seems like')
+
 print(f'published message id {future.result()}')

@@ -9,8 +9,8 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credentials_path
 timeout = 5.0                                                                       # timeout in seconds
 
 subscriber = pubsub_v1.SubscriberClient()
-subscription_path = 'projects/prepa-certif-pca/subscriptions/music-tunes-sub'
-
+#subscription_path = 'projects/prepa-certif-pca/subscriptions/music-tunes-sub'
+subscription_path = 'projects/prepa-certif-pca/subscriptions/abonnement-2'
 
 def callback(message):
     print(f'Received message: {message}')
