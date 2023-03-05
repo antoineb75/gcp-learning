@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prepa-certif-pca",
+  "private_key_id": "fcafabec6f456ec167e71fd7bd3565c742e7bcb3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCc9zbrQukLJQr0\n6MUjnb8TQiI4a4izW82Th85RttNTs/2ZgS7xKGpTAXO1lUFBnXAW6e36IkW9mLLI\nGcM3UEFNirJrO42KgMRUCoTFRgF9PU3T9SV4tsWOu4naAoIUeV0ZIAcY1t/rEhex\ncCBR+gA6n0DrNXrwyWwHl0Lomz41vlV9tRYC6VEJa9r0Wz+50gCSXFrGULHMv5p7\nblwQzvrD8hYn+e0o52gHdK/CxiawIQUqdlJO+QkwJzefU+SWW0cgAEZaEf9J9EBs\nRnPYtlORnte/qkGPR6G4B3mwXFuK4WLeEdjzy2Mm7qR1wVE81FF8TJ4FCzrB6H+z\n04UZBEUPAgMBAAECggEAM4MP42JIf49PCrOvKrKUp9nOyCxGJvJsQ0vQwlFZBgGu\nKqfSA3OLfSUfV4qdaU6lH+fyYOHJeGC532BRCACPBccMKZPYLgl3JMt06hbA21x4\ng6RSgUyeBer24PRswxJXIq03lwfBYXBFFUaiXLTKSXLFB8u7xnSbvtv9qb90yYbi\n59hQ26aWmofMCtEu2K+4bWxd57gl+3pdTgSePEAPBSen/W49RvQY8+syVSHX26+L\noMmeopdRHje0zIFuDtZsoW/plr1zvkopOLVbIPXRcKJSMPt1AsiM3xtb0v+kbfsQ\n9XEbjugmQitodC2nHfDZ/TaLKjBhZTFRyUZARSIQdQKBgQDSQM3x0FA+qa4/Puf1\nqp9W17vmw7dmHU/ipvkdhxOhAEsSUwWyqZBL11FxeWG7KdLlRusF5m5M/wPp5d+5\n9DyOXQRDcmcxpVDfP1vU9O5n2tTxTGgFgbAIkGFXv11ewUaMMnOnY/dg8H+yoEut\n2VLmdUqbKpINxf/Tfb0fY2uamwKBgQC/HkY3/5bKEycyhCbxUD78rZb07boAkKhT\nFfdSQCs75cUOVECC4E7hY0zYvWIZXXMrGnFmGqN18/WgVuPERAvWmQU/ZK6cxe//\neQEectXue2P15YAR4Ob8/nBKfXSqY4UzL1uMuC0fhQB/M+CeCAPNbWCxkPYBbkNA\n4eR1XnCcnQKBgQDJ6xidgZx/AX/pF2W3JbxOr3KyJQXNmJrupcKam+268kgmefr/\n4R5F56w8mQDFuV3jeR8elHUbltFQYMZilG9PnX8JsyXtpMEtFXEA7JTEwoE8l09S\n8oB3SQljNtHZvS4eWBmACV47B9zrVEw50ntt/fi/WbvYZG3S02+8ZEOjvwKBgQC0\nJQcvFX2+r9sMpMBIScl1RvK5n7LpgXEID/Z10wJtjSD3ZrcAJgp0LLNswOZM3mcG\nRACLq6RUNEZcgkpi33kBKG9n17E3GOQlvJsvZjL8fdY1G8RiFcnkwrh5nlNvoCsX\nmhYDSD9QLH/RZsbcbtWWtvijpu4bXyGJcON1NjWTiQKBgQDIEIhFx9ftxEPNuwvN\nV0O3N4xx3fGTw3kCqtwnQ4Jbc+CK2cRkIf2eRIbsfXdUFbT87T1e9r9qWJgCvkNH\nGlr7+MfRuq0akI+jCz6oLGdPhdHQBLfnB38loFq9ldEiqjWD99sO9I4mSmKaoKzU\nnM72PtLrg+eZLj4X68H9ft/RjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tunes-transactions@prepa-certif-pca.iam.gserviceaccount.com",
+  "client_id": "101951426623072164194",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tunes-transactions%40prepa-certif-pca.iam.gserviceaccount.com"
+}
