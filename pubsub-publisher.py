@@ -11,7 +11,7 @@ topic_path = 'projects/prepa-certif-pca/topics/beatles'
 timestamp = str(time.time())
 data = 'A new tune is ready'
 data = data.encode('utf-8')
-print(data)
+
 attributes = {
     'artist': 'beatles',
     'album': 'white album',
